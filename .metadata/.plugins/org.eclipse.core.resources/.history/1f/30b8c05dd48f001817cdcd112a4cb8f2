@@ -1,0 +1,8 @@
+package Patterns;
+
+public class Trye {
+	public static void main(String args[]) {
+		float a=45L;
+		System.out.println(a);
+	}
+}
